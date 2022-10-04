@@ -1,6 +1,13 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
+echo "ALX School"
+=======
+echo "ALX"
+>>>>>>> master
+=======
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
 >>>>>>> update_script
+>>>>>>> main
